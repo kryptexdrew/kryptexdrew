@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gerykdrew@gmail.com
 - 😄 Pronouns: Drew/Dre
-- ⚡ Fun fact: I'm an introvert but kinda naughty once you know me
 
 <!---
 kryptexdrew/kryptexdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
